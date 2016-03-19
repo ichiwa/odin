@@ -500,7 +500,7 @@ body.nav-opened .site-wrapper {
 
 /* Big cover image on the home page */
 .main-header {
-    position: relative;
+/*    position: relative;*/
     display: table;
     width: 100%;
     height: 24vh;
